@@ -1,2 +1,4 @@
 # hello-world
-just another repository
+Hello there.
+
+I am Vitaliia. I have been learning iOS programming since July 2021.
